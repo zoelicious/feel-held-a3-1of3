@@ -4,8 +4,8 @@ import { fileURLToPath } from "node:url";
 
 const text =
   "A smooth stone rests in your palm, still warm from the day. " +
-  "You turn it once, slowly. " +
-  "The light leaves the room, and the stone stays. " +
+  "You turn it once, and let it turn you back. " +
+  "The light leaves the room. The stone stays. " +
   "Nothing else is asked of you.";
 
 const rootDir = dirname(fileURLToPath(import.meta.url));
